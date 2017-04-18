@@ -157,6 +157,6 @@ li.dropdown
 
 .tooltip:hover .tooltiptext
 	{
-    visibility: visible;
+    	visibility: visible;
 		opacity: 1;
 	}
